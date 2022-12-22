@@ -10,7 +10,8 @@
 </p>
 <br>
 <br>
-# 🎅 Christmas Animation Effects using Html, CSS and JS
+
+# 🎅 Christmas Animation Effects Repo using Html, CSS and JS
 
 ## 🎄 Project 1: Snow Falling Christmas Animation Effects using Html and CSS
 
