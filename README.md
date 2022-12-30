@@ -19,4 +19,4 @@
 
 # 🎆 CSS Text Hover Animation Effects | 2023 
 
-![](https://github.com/Clara-Pacheco/happy-holidays/tree/main/new_year_2023/video)
+![](https://github.com/Clara-Pacheco/happy-holidays/blob/main/new_year_2023/video/Happy-New-Year-2023-Google-Chrome-2022-12-30-13-19-44_1.gif)
